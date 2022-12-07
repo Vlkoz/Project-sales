@@ -14,4 +14,4 @@
 2. Данные объединены в один источник.
 3. Построен дашборд в Power BI.
 
-![Dashboard](https://github.com/Vlkoz/Project-sales/main/files/view.png)
+![Dashboard](https://github.com/Vlkoz/Project-sales/raw/main/files/view.png)
